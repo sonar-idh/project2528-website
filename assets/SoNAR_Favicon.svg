@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_3" data-name="Ebene 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 90.71 90.71">
+<title>Favicon des Projekts SoNAR, Social Network Analysis and related Research.</title>
+<desc>Das Bild zeigt ein schwarzes O, das von einer blauen, kreisfoermigen Aura umgeben ist.</desc>  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_123);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="0" y="0" width="90.71" height="90.71"/>
+    </clipPath>
+    <radialGradient id="Unbenannter_Verlauf_123" data-name="Unbenannter Verlauf 123" cx="45.35" cy="45.35" fx="45.35" fy="45.35" r="45.35" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#69c"/>
+      <stop offset=".39" stop-color="#aac6e2" stop-opacity=".91"/>
+      <stop offset=".79" stop-color="#e7eff7" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".8"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-4">
+    <rect class="cls-1" x="-22.22" y="-22.22" width="135.14" height="135.14"/>
+    <g>
+      <circle class="cls-3" cx="45.35" cy="45.35" r="45.35"/>
+      <path d="M52.46,45.33c0,1.22-.17,2.3-.5,3.25-.33.95-.81,1.75-1.42,2.4-.62.65-1.37,1.15-2.24,1.48s-1.87.5-2.98.5c-1.02,0-1.96-.17-2.83-.5-.87-.33-1.62-.82-2.24-1.48-.63-.65-1.11-1.45-1.46-2.4-.35-.95-.52-2.03-.52-3.25,0-1.63.29-3,.86-4.12.57-1.12,1.4-1.97,2.47-2.56,1.07-.59,2.34-.89,3.81-.89,1.38,0,2.6.3,3.65.89,1.06.59,1.89,1.45,2.5,2.56.61,1.12.91,2.49.91,4.12ZM42.33,45.33c0,.97.1,1.78.31,2.43.21.65.53,1.15.98,1.48.45.33,1.03.5,1.75.5s1.29-.17,1.73-.5c.44-.33.76-.82.97-1.48.21-.65.31-1.46.31-2.43s-.1-1.77-.31-2.42c-.21-.64-.53-1.13-.98-1.45-.45-.32-1.03-.48-1.75-.48-1.06,0-1.82.36-2.3,1.09-.47.72-.71,1.81-.71,3.26Z"/>
+    </g>
+  </g>
+</svg>

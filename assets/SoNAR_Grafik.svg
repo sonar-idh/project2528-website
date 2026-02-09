@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_3" data-name="Ebene 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 565.68 401.06">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Unbenannter_Verlauf_247-2);
+      }
+
+      .cls-2 {
+        fill: url(#Unbenannter_Verlauf_247);
+      }
+
+      .cls-3 {
+        fill: url(#Unbenannter_Verlauf_229-2);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: url(#Unbenannter_Verlauf_229);
+      }
+
+      .cls-6 {
+        fill: url(#Unbenannter_Verlauf_225);
+      }
+
+      .cls-7 {
+        fill: url(#Unbenannter_Verlauf_229-3);
+      }
+
+      .cls-8 {
+        fill: url(#Unbenannter_Verlauf_225-2);
+      }
+
+      .cls-9 {
+        fill: url(#Unbenannter_Verlauf_220);
+      }
+    </style>
+    <radialGradient id="Unbenannter_Verlauf_229" data-name="Unbenannter Verlauf 229" cx="327.77" cy="196.07" fx="327.77" fy="196.07" r="133.59" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe208"/>
+      <stop offset=".35" stop-color="#ffe208" stop-opacity=".68"/>
+      <stop offset=".66" stop-color="#ffe208" stop-opacity=".42"/>
+      <stop offset=".88" stop-color="#ffe208" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#ffe208" stop-opacity=".2"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_220" data-name="Unbenannter Verlauf 220" cx="144.32" cy="304.8" fx="144.32" fy="304.8" r="96.26" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d20a11"/>
+      <stop offset=".23" stop-color="#d20a11" stop-opacity=".78"/>
+      <stop offset=".6" stop-color="#d20a11" stop-opacity=".47"/>
+      <stop offset=".86" stop-color="#d20a11" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#d20a11" stop-opacity=".2"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_225" data-name="Unbenannter Verlauf 225" cx="461.36" cy="224.2" fx="461.36" fy="224.2" r="96.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec6726"/>
+      <stop offset=".31" stop-color="#ec6726" stop-opacity=".72"/>
+      <stop offset=".64" stop-color="#ec6726" stop-opacity=".44"/>
+      <stop offset=".88" stop-color="#ec6726" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#ec6726" stop-opacity=".2"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_247" data-name="Unbenannter Verlauf 247" cx="247.68" cy="133.59" fx="247.68" fy="133.59" r="133.59" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6289cc"/>
+      <stop offset=".22" stop-color="#6289cc" stop-opacity=".8"/>
+      <stop offset=".59" stop-color="#6289cc" stop-opacity=".48"/>
+      <stop offset=".86" stop-color="#6289cc" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6289cc" stop-opacity=".2"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_229-2" data-name="Unbenannter Verlauf 229" cx="108.31" cy="186.25" fx="108.31" fy="186.25" r="108.31" xlink:href="#Unbenannter_Verlauf_229"/>
+    <radialGradient id="Unbenannter_Verlauf_229-3" data-name="Unbenannter Verlauf 229" cx="496.15" cy="116.72" fx="496.15" fy="116.72" r="69.53" xlink:href="#Unbenannter_Verlauf_229"/>
+    <radialGradient id="Unbenannter_Verlauf_247-2" data-name="Unbenannter Verlauf 247" cx="438.17" cy="116.72" fx="438.17" fy="116.72" r="48.61" xlink:href="#Unbenannter_Verlauf_247"/>
+    <radialGradient id="Unbenannter_Verlauf_225-2" data-name="Unbenannter Verlauf 225" cx="140.46" cy="64.31" fx="140.46" fy="64.31" r="55.96" xlink:href="#Unbenannter_Verlauf_225"/>
+  </defs>
+  <circle class="cls-5" cx="327.77" cy="196.07" r="133.59"/>
+  <line class="cls-4" x1="246.41" y1="77.94" x2="247.68" y2="79.21"/>
+  <circle class="cls-9" cx="144.32" cy="304.8" r="96.26"/>
+  <circle class="cls-6" cx="461.36" cy="224.2" r="96.55"/>
+  <circle class="cls-2" cx="247.68" cy="133.59" r="133.59"/>
+  <circle class="cls-3" cx="108.31" cy="186.25" r="108.31"/>
+  <circle class="cls-7" cx="496.15" cy="116.72" r="69.53"/>
+  <circle class="cls-1" cx="438.17" cy="116.72" r="48.61"/>
+  <circle class="cls-8" cx="140.46" cy="64.31" r="55.96"/>
+</svg>
