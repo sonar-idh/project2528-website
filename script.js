@@ -100,11 +100,3 @@ document.addEventListener("click", (e) => {
   }
 });
 
-// Smooth scroll to top when clicking logo
-document.querySelector('.logo-link').addEventListener('click', (e) => {
-  e.preventDefault();
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth'
-  });
-});

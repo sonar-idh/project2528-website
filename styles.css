@@ -27,7 +27,6 @@
 
 html {
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 body {
@@ -36,7 +35,6 @@ body {
     line-height: 1.7;
     color: var(--color-text-base);
     background-color: var(--color-background);
-    overflow-x: hidden;
 }
 
 /* Links */
@@ -497,7 +495,7 @@ button:focus-visible {
     .nav-links {
         position: fixed;
         top: 0;
-        right: -100%;
+        right: 0;
         width: 100%;
         max-width: 15rem;
         height: 100vh;
@@ -505,13 +503,17 @@ button:focus-visible {
         flex-direction: column;
         padding: 5rem 2rem 2rem;
         box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
-        transition: right 0.3s ease;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s 0.3s, opacity 0.3s ease;
         z-index: 2;
         overflow-y: auto;
     }
 
     .nav-links.active {
-        right: 0;
+        visibility: visible;
+        opacity: 1;
+        transition: visibility 0s, opacity 0.3s ease;
     }
 
     .nav-links a {
