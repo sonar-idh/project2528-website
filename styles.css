@@ -27,6 +27,7 @@
 
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
@@ -35,6 +36,7 @@ body {
     line-height: 1.7;
     color: var(--color-text-base);
     background-color: var(--color-background);
+    overflow-x: hidden;
 }
 
 /* Links */
@@ -64,7 +66,6 @@ button:focus-visible {
     border-bottom: 1px solid var(--color-border);
     z-index: 2;
     padding: 1rem 0;
-    overflow-x: hidden;
 }
 
 .nav-container {
