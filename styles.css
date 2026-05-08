@@ -334,7 +334,7 @@ button:focus-visible {
 }
 
 .team-member {
-    padding: 1rem;
+    padding: 1rem 0.95rem;
     background-color: var(--color-background-white);
     border-radius: 0.25rem;
     border: 1px solid var(--color-border);
